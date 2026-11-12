@@ -1,0 +1,6 @@
+{
+  "name": "Typetype - Monkeytype Typing Test",
+  "description": "Monkeytype uslubidagi professional tez yozish testi: xatolar tahlili, moslanuvchan taymer, rangli mavzular va reyting jadvali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
